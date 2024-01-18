@@ -1,1 +1,4 @@
-console.log("hello world!");
+import build from "./homePage";
+import './style.css'
+
+build();

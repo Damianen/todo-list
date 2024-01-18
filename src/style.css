@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+.side-bar {
+    flex: 1 1 0%;
+    background-color: #DFC681;
+    height: 100vh;
+}
+
+.main {
+    flex: 4 1 0%;
+    background-color: #161209;
+    height: 100vh;
+}
